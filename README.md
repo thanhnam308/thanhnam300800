@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thanhnam300800
-- 👀 I’m interested in C/C++, OOP and MQL4
-- 🌱 I’m currently learning in C/C++, OOP and MQL4
-- 💞️ I’m looking to collaborate on in C/C++, OOP and MQL4
+- 👀 I’m interested in C/C++ and Python
+- 🌱 I’m currently learning in C/C++ and Python
+- 💞️ I’m looking to collaborate on in C/C++ and Python
 - 📫 How to reach me https://github.com/thanhnam300800
 
 <!---
